@@ -18,7 +18,7 @@ subprojects {
 
     configure<LibraryExtension> {
         // TODO: Change to your package name
-        namespace = "com.github.yournamehere"
+        namespace = "com.github.sqyren"
         compileSdk = 36
 
         defaultConfig {
@@ -38,7 +38,7 @@ subprojects {
 
     configure<AliucordExtension> {
         // TODO: Change to your name and user ID
-        author("yournamehere", 0L, hyperlink = true)
+        author("sqyren", 918742611181858877L, hyperlink = true)
 
         // TODO: Change to your repository
         github("https://github.com/Aliucord/plugins-template")
