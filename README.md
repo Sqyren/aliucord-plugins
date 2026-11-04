@@ -2,7 +2,7 @@
 
 Plugins for [Aliucord](https://github.com/Aliucord/Aliucord) by sqyren.
 
-## RingingPulse
+## RingingPulse (unstable)
 
 Adds green ripple rings around the caller's avatar on the incoming call screen, similar to the ringing effect on desktop Discord.
 
